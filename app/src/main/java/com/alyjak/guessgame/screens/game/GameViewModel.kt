@@ -1,7 +1,6 @@
 package com.alyjak.guessgame.screens.game
 
 import android.os.CountDownTimer
-import android.text.format.DateUtils
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
